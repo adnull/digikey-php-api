@@ -1,0 +1,8 @@
+<?php
+
+$digikey_client_id = "<This is your app client ID>";
+$digikey_secret = "<This is your app client ID>";
+$digikey_url = "https://sandbox-api.digikey.com";
+$digikey_token_file = dirname(__FILE__)."/tokens.json";
+$digikey_app_url = "<Your app url as defined in digikey app settings>";
+?>
