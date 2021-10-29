@@ -1,0 +1,1020 @@
+{
+    "LimitedTaxonomy": {
+        "Children": [
+            {
+                "Children": [
+                    {
+                        "Children": [],
+                        "ProductCount": 4,
+                        "NewProductCount": 0,
+                        "ParameterId": -8,
+                        "ValueId": "743",
+                        "Parameter": "Categories",
+                        "Value": "Logic - Signal Switches, Multiplexers, Decoders"
+                    },
+                    {
+                        "Children": [],
+                        "ProductCount": 1,
+                        "NewProductCount": 0,
+                        "ParameterId": -8,
+                        "ValueId": "686",
+                        "Parameter": "Categories",
+                        "Value": "Specialized ICs"
+                    }
+                ],
+                "ProductCount": 5,
+                "NewProductCount": 0,
+                "ParameterId": -8,
+                "ValueId": "32",
+                "Parameter": "Categories",
+                "Value": "Integrated Circuits (ICs)"
+            }
+        ],
+        "ProductCount": 5,
+        "NewProductCount": 0,
+        "ParameterId": -8,
+        "ValueId": "0",
+        "Parameter": "Categories",
+        "Value": "Out of Bounds"
+    },
+    "FilterOptions": [],
+    "Products": [
+        {
+            "StandardPricing": [
+                {
+                    "BreakQuantity": 332,
+                    "UnitPrice": 0.90000000000000002,
+                    "TotalPrice": 298.80000000000001
+                }
+            ],
+            "RoHSStatus": "Request Inventory Verification",
+            "LeadStatus": "",
+            "Parameters": [
+                {
+                    "ParameterId": -1,
+                    "ValueId": "2156",
+                    "Parameter": "Manufacturer",
+                    "Value": "Rochester Electronics, LLC"
+                },
+                {
+                    "ParameterId": 7,
+                    "ValueId": "3",
+                    "Parameter": "Packaging",
+                    "Value": "Bulk"
+                },
+                {
+                    "ParameterId": 1989,
+                    "ValueId": "0",
+                    "Parameter": "Part Status",
+                    "Value": "Active"
+                }
+            ],
+            "ProductUrl": "https:\/\/www.digikey.com\/product-detail\/en\/texas-instruments\/SN74LS148NS\/2156-SN74LS148NS-ND\/13498976",
+            "PrimaryDatasheet": "https:\/\/rocelec.widen.net\/view\/pdf\/dlphxvn5rf\/MOTOD197-4-111.pdf?t.download=true&u=5oefqw",
+            "PrimaryPhoto": "https:\/\/media.digikey.com\/Photos\/Rochester\/MFG_UC3527BN.jpg",
+            "PrimaryVideo": "",
+            "Series": {
+                "ParameterId": -5,
+                "ValueId": "0",
+                "Parameter": "Series",
+                "Value": "*"
+            },
+            "ManufacturerLeadWeeks": "Will process 1-12 days from Rochester Electronics LLC.",
+            "ManufacturerPageUrl": "https:\/\/www.digikey.com\/en\/supplier-centers\/rochester-electronics",
+            "ProductStatus": "Active",
+            "AlternatePackaging": [],
+            "DetailedDescription": " ",
+            "ReachStatus": "Reach unknown",
+            "ExportControlClassNumber": "",
+            "HTSUSCode": "",
+            "TariffDescription": "",
+            "MoistureSensitivityLevel": "Out of Bounds",
+            "Family": {
+                "ParameterId": -2,
+                "ValueId": "210",
+                "Parameter": "Family",
+                "Value": "Specialized ICs"
+            },
+            "Category": {
+                "ParameterId": -3,
+                "ValueId": "39",
+                "Parameter": "Category",
+                "Value": "Integrated Circuits (ICs)"
+            },
+            "ManufacturerPartNumber": "SN74LS148NS",
+            "MinimumOrderQuantity": 332,
+            "NonStock": false,
+            "Packaging": {
+                "ParameterId": 7,
+                "ValueId": "3",
+                "Parameter": "Packaging",
+                "Value": "Bulk"
+            },
+            "QuantityAvailable": 1100,
+            "DigiKeyPartNumber": "2156-SN74LS148NS-ND",
+            "ProductDescription": "IC PRIORITY ENCODER 8-3L 16SO",
+            "UnitPrice": 0.90000000000000002,
+            "Manufacturer": {
+                "ParameterId": -9,
+                "ValueId": "296",
+                "Parameter": "Manufacturer",
+                "Value": "Texas Instruments"
+            },
+            "ManufacturerPublicQuantity": 0,
+            "QuantityOnOrder": 0,
+            "DKPlusRestriction": true,
+            "Marketplace": true,
+            "SupplierDirectShip": false
+        },
+        {
+            "StandardPricing": [
+                {
+                    "BreakQuantity": 1,
+                    "UnitPrice": 1.6299999999999999,
+                    "TotalPrice": 1.6299999999999999
+                },
+                {
+                    "BreakQuantity": 10,
+                    "UnitPrice": 1.4630000000000001,
+                    "TotalPrice": 14.630000000000001
+                },
+                {
+                    "BreakQuantity": 25,
+                    "UnitPrice": 1.3808,
+                    "TotalPrice": 34.520000000000003
+                },
+                {
+                    "BreakQuantity": 100,
+                    "UnitPrice": 1.1762999999999999,
+                    "TotalPrice": 117.63
+                },
+                {
+                    "BreakQuantity": 250,
+                    "UnitPrice": 1.1045199999999999,
+                    "TotalPrice": 276.13
+                },
+                {
+                    "BreakQuantity": 500,
+                    "UnitPrice": 0.96645999999999999,
+                    "TotalPrice": 483.23000000000002
+                },
+                {
+                    "BreakQuantity": 1000,
+                    "UnitPrice": 0.91174999999999995,
+                    "TotalPrice": 911.75
+                }
+            ],
+            "RoHSStatus": "ROHS3 Compliant",
+            "LeadStatus": "Lead Free",
+            "Parameters": [
+                {
+                    "ParameterId": -1,
+                    "ValueId": "296",
+                    "Parameter": "Manufacturer",
+                    "Value": "Texas Instruments"
+                },
+                {
+                    "ParameterId": 7,
+                    "ValueId": "6",
+                    "Parameter": "Packaging",
+                    "Value": "Tube"
+                },
+                {
+                    "ParameterId": 1989,
+                    "ValueId": "0",
+                    "Parameter": "Part Status",
+                    "Value": "Active"
+                },
+                {
+                    "ParameterId": 183,
+                    "ValueId": "389942",
+                    "Parameter": "Type",
+                    "Value": "Priority Encoder"
+                },
+                {
+                    "ParameterId": 130,
+                    "ValueId": "40394",
+                    "Parameter": "Circuit",
+                    "Value": "1 x 8:3"
+                },
+                {
+                    "ParameterId": 591,
+                    "ValueId": "i1",
+                    "Parameter": "Independent Circuits",
+                    "Value": "1"
+                },
+                {
+                    "ParameterId": 592,
+                    "ValueId": "213002",
+                    "Parameter": "Current - Output High, Low",
+                    "Value": "400\u00b5A, 8mA"
+                },
+                {
+                    "ParameterId": 593,
+                    "ValueId": "403070",
+                    "Parameter": "Voltage Supply Source",
+                    "Value": "Single Supply"
+                },
+                {
+                    "ParameterId": 276,
+                    "ValueId": "209941",
+                    "Parameter": "Voltage - Supply",
+                    "Value": "4.75V ~ 5.25V"
+                },
+                {
+                    "ParameterId": 252,
+                    "ValueId": "38976",
+                    "Parameter": "Operating Temperature",
+                    "Value": "0\u00b0C ~ 70\u00b0C"
+                },
+                {
+                    "ParameterId": 69,
+                    "ValueId": "411897",
+                    "Parameter": "Mounting Type",
+                    "Value": "Through Hole"
+                },
+                {
+                    "ParameterId": 16,
+                    "ValueId": "107879",
+                    "Parameter": "Package \/ Case",
+                    "Value": "16-DIP (0.300\", 7.62mm)"
+                },
+                {
+                    "ParameterId": 1291,
+                    "ValueId": "108442",
+                    "Parameter": "Supplier Device Package",
+                    "Value": "16-PDIP"
+                },
+                {
+                    "ParameterId": 2078,
+                    "ValueId": "13206",
+                    "Parameter": "Base Part Number",
+                    "Value": "74LS148"
+                }
+            ],
+            "ProductUrl": "https:\/\/www.digikey.com\/product-detail\/en\/texas-instruments\/SN74LS148N\/296-3651-5-ND\/377765",
+            "PrimaryDatasheet": "https:\/\/www.ti.com\/general\/docs\/suppproductinfo.tsp?distId=10&gotoUrl=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74ls148",
+            "PrimaryPhoto": "https:\/\/media.digikey.com\/Renders\/Texas%20Instr%20Renders\/296~4040049~N~16.jpg",
+            "PrimaryVideo": "",
+            "Series": {
+                "ParameterId": -5,
+                "ValueId": "77",
+                "Parameter": "Series",
+                "Value": "74LS"
+            },
+            "ManufacturerLeadWeeks": "6 weeks",
+            "ManufacturerPageUrl": "https:\/\/www.digikey.com\/en\/supplier-centers\/texas-instruments",
+            "ProductStatus": "Active",
+            "AlternatePackaging": [],
+            "DetailedDescription": "Priority Encoder 1 x 8:3 16-PDIP",
+            "ReachStatus": "Reach unaffected",
+            "ExportControlClassNumber": "EAR99",
+            "HTSUSCode": "8542.39.0001",
+            "TariffDescription": "",
+            "MoistureSensitivityLevel": "1  (Unlimited)",
+            "Family": {
+                "ParameterId": -2,
+                "ValueId": "691",
+                "Parameter": "Family",
+                "Value": "Logic - Signal Switches, Multiplexers, Decoders"
+            },
+            "Category": {
+                "ParameterId": -3,
+                "ValueId": "39",
+                "Parameter": "Category",
+                "Value": "Integrated Circuits (ICs)"
+            },
+            "ManufacturerPartNumber": "SN74LS148N",
+            "MinimumOrderQuantity": 1,
+            "NonStock": false,
+            "Packaging": {
+                "ParameterId": 7,
+                "ValueId": "6",
+                "Parameter": "Packaging",
+                "Value": "Tube"
+            },
+            "QuantityAvailable": 674,
+            "DigiKeyPartNumber": "296-3651-5-ND",
+            "ProductDescription": "IC PRIORITY ENCOD 1 X 8:3 16DIP",
+            "UnitPrice": 1.6299999999999999,
+            "Manufacturer": {
+                "ParameterId": -9,
+                "ValueId": "296",
+                "Parameter": "Manufacturer",
+                "Value": "Texas Instruments"
+            },
+            "ManufacturerPublicQuantity": 5150,
+            "QuantityOnOrder": 0,
+            "DKPlusRestriction": false,
+            "Marketplace": false,
+            "SupplierDirectShip": false
+        },
+        {
+            "StandardPricing": [
+                {
+                    "BreakQuantity": 2000,
+                    "UnitPrice": 0.91174999999999995,
+                    "TotalPrice": 1823.5
+                }
+            ],
+            "RoHSStatus": "ROHS3 Compliant",
+            "LeadStatus": "Lead Free",
+            "Parameters": [
+                {
+                    "ParameterId": -1,
+                    "ValueId": "296",
+                    "Parameter": "Manufacturer",
+                    "Value": "Texas Instruments"
+                },
+                {
+                    "ParameterId": 7,
+                    "ValueId": "1",
+                    "Parameter": "Packaging",
+                    "Value": "Tape & Reel (TR)"
+                },
+                {
+                    "ParameterId": 1989,
+                    "ValueId": "0",
+                    "Parameter": "Part Status",
+                    "Value": "Active"
+                },
+                {
+                    "ParameterId": 183,
+                    "ValueId": "389942",
+                    "Parameter": "Type",
+                    "Value": "Priority Encoder"
+                },
+                {
+                    "ParameterId": 130,
+                    "ValueId": "40394",
+                    "Parameter": "Circuit",
+                    "Value": "1 x 8:3"
+                },
+                {
+                    "ParameterId": 591,
+                    "ValueId": "i1",
+                    "Parameter": "Independent Circuits",
+                    "Value": "1"
+                },
+                {
+                    "ParameterId": 592,
+                    "ValueId": "213002",
+                    "Parameter": "Current - Output High, Low",
+                    "Value": "400\u00b5A, 8mA"
+                },
+                {
+                    "ParameterId": 593,
+                    "ValueId": "403070",
+                    "Parameter": "Voltage Supply Source",
+                    "Value": "Single Supply"
+                },
+                {
+                    "ParameterId": 276,
+                    "ValueId": "209941",
+                    "Parameter": "Voltage - Supply",
+                    "Value": "4.75V ~ 5.25V"
+                },
+                {
+                    "ParameterId": 252,
+                    "ValueId": "38976",
+                    "Parameter": "Operating Temperature",
+                    "Value": "0\u00b0C ~ 70\u00b0C"
+                },
+                {
+                    "ParameterId": 69,
+                    "ValueId": "409393",
+                    "Parameter": "Mounting Type",
+                    "Value": "Surface Mount"
+                },
+                {
+                    "ParameterId": 16,
+                    "ValueId": "108624",
+                    "Parameter": "Package \/ Case",
+                    "Value": "16-SOIC (0.209\", 5.30mm Width)"
+                },
+                {
+                    "ParameterId": 1291,
+                    "ValueId": "108607",
+                    "Parameter": "Supplier Device Package",
+                    "Value": "16-SO"
+                },
+                {
+                    "ParameterId": 2078,
+                    "ValueId": "13206",
+                    "Parameter": "Base Part Number",
+                    "Value": "74LS148"
+                }
+            ],
+            "ProductUrl": "https:\/\/www.digikey.com\/product-detail\/en\/texas-instruments\/SN74LS148NSR\/296-28941-2-ND\/1571829",
+            "PrimaryDatasheet": "https:\/\/www.ti.com\/general\/docs\/suppproductinfo.tsp?distId=10&gotoUrl=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74ls148",
+            "PrimaryPhoto": "https:\/\/media.digikey.com\/Renders\/Texas%20Instr%20Renders\/296~4040062~NS~16.JPG",
+            "PrimaryVideo": "",
+            "Series": {
+                "ParameterId": -5,
+                "ValueId": "77",
+                "Parameter": "Series",
+                "Value": "74LS"
+            },
+            "ManufacturerLeadWeeks": "35 weeks",
+            "ManufacturerPageUrl": "https:\/\/www.digikey.com\/en\/supplier-centers\/texas-instruments",
+            "ProductStatus": "Active",
+            "AlternatePackaging": [],
+            "DetailedDescription": "Priority Encoder 1 x 8:3 16-SO",
+            "ReachStatus": "Reach unaffected",
+            "ExportControlClassNumber": "EAR99",
+            "HTSUSCode": "8542.39.0001",
+            "TariffDescription": "",
+            "MoistureSensitivityLevel": "1  (Unlimited)",
+            "Family": {
+                "ParameterId": -2,
+                "ValueId": "691",
+                "Parameter": "Family",
+                "Value": "Logic - Signal Switches, Multiplexers, Decoders"
+            },
+            "Category": {
+                "ParameterId": -3,
+                "ValueId": "39",
+                "Parameter": "Category",
+                "Value": "Integrated Circuits (ICs)"
+            },
+            "ManufacturerPartNumber": "SN74LS148NSR",
+            "MinimumOrderQuantity": 2000,
+            "NonStock": true,
+            "Packaging": {
+                "ParameterId": 7,
+                "ValueId": "1",
+                "Parameter": "Packaging",
+                "Value": "Tape & Reel (TR)"
+            },
+            "QuantityAvailable": 0,
+            "DigiKeyPartNumber": "296-28941-2-ND",
+            "ProductDescription": "IC PRIORITY ENCODER 1 X 8:3 16SO",
+            "UnitPrice": 0.91174999999999995,
+            "Manufacturer": {
+                "ParameterId": -9,
+                "ValueId": "296",
+                "Parameter": "Manufacturer",
+                "Value": "Texas Instruments"
+            },
+            "ManufacturerPublicQuantity": 0,
+            "QuantityOnOrder": 0,
+            "DKPlusRestriction": false,
+            "Marketplace": false,
+            "SupplierDirectShip": false
+        },
+        {
+            "StandardPricing": [
+                {
+                    "BreakQuantity": 1,
+                    "UnitPrice": 0,
+                    "TotalPrice": 0
+                }
+            ],
+            "RoHSStatus": "ROHS3 Compliant",
+            "LeadStatus": "Lead Free",
+            "Parameters": [
+                {
+                    "ParameterId": -1,
+                    "ValueId": "296",
+                    "Parameter": "Manufacturer",
+                    "Value": "Texas Instruments"
+                },
+                {
+                    "ParameterId": 7,
+                    "ValueId": "2",
+                    "Parameter": "Packaging",
+                    "Value": "Cut Tape (CT)"
+                },
+                {
+                    "ParameterId": 1989,
+                    "ValueId": "2",
+                    "Parameter": "Part Status",
+                    "Value": "Discontinued at Digi-Key"
+                },
+                {
+                    "ParameterId": 183,
+                    "ValueId": "389942",
+                    "Parameter": "Type",
+                    "Value": "Priority Encoder"
+                },
+                {
+                    "ParameterId": 130,
+                    "ValueId": "40394",
+                    "Parameter": "Circuit",
+                    "Value": "1 x 8:3"
+                },
+                {
+                    "ParameterId": 591,
+                    "ValueId": "i1",
+                    "Parameter": "Independent Circuits",
+                    "Value": "1"
+                },
+                {
+                    "ParameterId": 592,
+                    "ValueId": "213002",
+                    "Parameter": "Current - Output High, Low",
+                    "Value": "400\u00b5A, 8mA"
+                },
+                {
+                    "ParameterId": 593,
+                    "ValueId": "403070",
+                    "Parameter": "Voltage Supply Source",
+                    "Value": "Single Supply"
+                },
+                {
+                    "ParameterId": 276,
+                    "ValueId": "209941",
+                    "Parameter": "Voltage - Supply",
+                    "Value": "4.75V ~ 5.25V"
+                },
+                {
+                    "ParameterId": 252,
+                    "ValueId": "38976",
+                    "Parameter": "Operating Temperature",
+                    "Value": "0\u00b0C ~ 70\u00b0C"
+                },
+                {
+                    "ParameterId": 69,
+                    "ValueId": "409393",
+                    "Parameter": "Mounting Type",
+                    "Value": "Surface Mount"
+                },
+                {
+                    "ParameterId": 16,
+                    "ValueId": "108624",
+                    "Parameter": "Package \/ Case",
+                    "Value": "16-SOIC (0.209\", 5.30mm Width)"
+                },
+                {
+                    "ParameterId": 1291,
+                    "ValueId": "108607",
+                    "Parameter": "Supplier Device Package",
+                    "Value": "16-SO"
+                },
+                {
+                    "ParameterId": 2078,
+                    "ValueId": "13206",
+                    "Parameter": "Base Part Number",
+                    "Value": "74LS148"
+                }
+            ],
+            "ProductUrl": "https:\/\/www.digikey.com\/product-detail\/en\/texas-instruments\/SN74LS148NSR\/296-28941-1-ND\/2679376",
+            "PrimaryDatasheet": "https:\/\/www.ti.com\/general\/docs\/suppproductinfo.tsp?distId=10&gotoUrl=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74ls148",
+            "PrimaryPhoto": "https:\/\/media.digikey.com\/Renders\/Texas%20Instr%20Renders\/296~4040062~NS~16.JPG",
+            "PrimaryVideo": "",
+            "Series": {
+                "ParameterId": -5,
+                "ValueId": "77",
+                "Parameter": "Series",
+                "Value": "74LS"
+            },
+            "ManufacturerLeadWeeks": "",
+            "ManufacturerPageUrl": "https:\/\/www.digikey.com\/en\/supplier-centers\/texas-instruments",
+            "ProductStatus": "Discontinued at Digi-Key",
+            "AlternatePackaging": [
+                {
+                    "ManufacturerPartNumber": "SN74LS148NSR",
+                    "MinimumOrderQuantity": 2000,
+                    "NonStock": true,
+                    "Packaging": {
+                        "ParameterId": 7,
+                        "ValueId": "1",
+                        "Parameter": "Packaging",
+                        "Value": "Tape & Reel (TR)"
+                    },
+                    "QuantityAvailable": 0,
+                    "DigiKeyPartNumber": "296-28941-2-ND",
+                    "ProductDescription": "IC PRIORITY ENCODER 1 X 8:3 16SO",
+                    "UnitPrice": 0.91174999999999995,
+                    "Manufacturer": {
+                        "ParameterId": -9,
+                        "ValueId": "296",
+                        "Parameter": "Manufacturer",
+                        "Value": "Texas Instruments"
+                    },
+                    "ManufacturerPublicQuantity": 0,
+                    "QuantityOnOrder": 0,
+                    "DKPlusRestriction": false,
+                    "Marketplace": false,
+                    "SupplierDirectShip": false
+                }
+            ],
+            "DetailedDescription": "Priority Encoder 1 x 8:3 16-SO",
+            "ReachStatus": "Reach unaffected",
+            "ExportControlClassNumber": "EAR99",
+            "HTSUSCode": "8542.39.0001",
+            "TariffDescription": "",
+            "MoistureSensitivityLevel": "1  (Unlimited)",
+            "Family": {
+                "ParameterId": -2,
+                "ValueId": "691",
+                "Parameter": "Family",
+                "Value": "Logic - Signal Switches, Multiplexers, Decoders"
+            },
+            "Category": {
+                "ParameterId": -3,
+                "ValueId": "39",
+                "Parameter": "Category",
+                "Value": "Integrated Circuits (ICs)"
+            },
+            "ManufacturerPartNumber": "SN74LS148NSR",
+            "MinimumOrderQuantity": 1,
+            "NonStock": true,
+            "Packaging": {
+                "ParameterId": 7,
+                "ValueId": "2",
+                "Parameter": "Packaging",
+                "Value": "Cut Tape (CT)"
+            },
+            "QuantityAvailable": 0,
+            "DigiKeyPartNumber": "296-28941-1-ND",
+            "ProductDescription": "IC PRIORITY ENCODER 1 X 8:3 16SO",
+            "UnitPrice": 0,
+            "Manufacturer": {
+                "ParameterId": -9,
+                "ValueId": "296",
+                "Parameter": "Manufacturer",
+                "Value": "Texas Instruments"
+            },
+            "ManufacturerPublicQuantity": 0,
+            "QuantityOnOrder": 0,
+            "DKPlusRestriction": false,
+            "Marketplace": false,
+            "SupplierDirectShip": false
+        },
+        {
+            "StandardPricing": [
+                {
+                    "BreakQuantity": 1,
+                    "UnitPrice": 0,
+                    "TotalPrice": 0
+                }
+            ],
+            "RoHSStatus": "ROHS3 Compliant",
+            "LeadStatus": "Lead Free",
+            "Parameters": [
+                {
+                    "ParameterId": -1,
+                    "ValueId": "296",
+                    "Parameter": "Manufacturer",
+                    "Value": "Texas Instruments"
+                },
+                {
+                    "ParameterId": 7,
+                    "ValueId": "243",
+                    "Parameter": "Packaging",
+                    "Value": "Digi-Reel\u00ae"
+                },
+                {
+                    "ParameterId": 1989,
+                    "ValueId": "2",
+                    "Parameter": "Part Status",
+                    "Value": "Discontinued at Digi-Key"
+                },
+                {
+                    "ParameterId": 183,
+                    "ValueId": "389942",
+                    "Parameter": "Type",
+                    "Value": "Priority Encoder"
+                },
+                {
+                    "ParameterId": 130,
+                    "ValueId": "40394",
+                    "Parameter": "Circuit",
+                    "Value": "1 x 8:3"
+                },
+                {
+                    "ParameterId": 591,
+                    "ValueId": "i1",
+                    "Parameter": "Independent Circuits",
+                    "Value": "1"
+                },
+                {
+                    "ParameterId": 592,
+                    "ValueId": "213002",
+                    "Parameter": "Current - Output High, Low",
+                    "Value": "400\u00b5A, 8mA"
+                },
+                {
+                    "ParameterId": 593,
+                    "ValueId": "403070",
+                    "Parameter": "Voltage Supply Source",
+                    "Value": "Single Supply"
+                },
+                {
+                    "ParameterId": 276,
+                    "ValueId": "209941",
+                    "Parameter": "Voltage - Supply",
+                    "Value": "4.75V ~ 5.25V"
+                },
+                {
+                    "ParameterId": 252,
+                    "ValueId": "38976",
+                    "Parameter": "Operating Temperature",
+                    "Value": "0\u00b0C ~ 70\u00b0C"
+                },
+                {
+                    "ParameterId": 69,
+                    "ValueId": "409393",
+                    "Parameter": "Mounting Type",
+                    "Value": "Surface Mount"
+                },
+                {
+                    "ParameterId": 16,
+                    "ValueId": "108624",
+                    "Parameter": "Package \/ Case",
+                    "Value": "16-SOIC (0.209\", 5.30mm Width)"
+                },
+                {
+                    "ParameterId": 1291,
+                    "ValueId": "108607",
+                    "Parameter": "Supplier Device Package",
+                    "Value": "16-SO"
+                },
+                {
+                    "ParameterId": 2078,
+                    "ValueId": "13206",
+                    "Parameter": "Base Part Number",
+                    "Value": "74LS148"
+                }
+            ],
+            "ProductUrl": "https:\/\/www.digikey.com\/product-detail\/en\/texas-instruments\/SN74LS148NSR\/296-28941-6-ND\/2679393",
+            "PrimaryDatasheet": "https:\/\/www.ti.com\/general\/docs\/suppproductinfo.tsp?distId=10&gotoUrl=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74ls148",
+            "PrimaryPhoto": "https:\/\/media.digikey.com\/Renders\/Texas%20Instr%20Renders\/296~4040062~NS~16.JPG",
+            "PrimaryVideo": "",
+            "Series": {
+                "ParameterId": -5,
+                "ValueId": "77",
+                "Parameter": "Series",
+                "Value": "74LS"
+            },
+            "ManufacturerLeadWeeks": "",
+            "ManufacturerPageUrl": "https:\/\/www.digikey.com\/en\/supplier-centers\/texas-instruments",
+            "ProductStatus": "Discontinued at Digi-Key",
+            "AlternatePackaging": [
+                {
+                    "ManufacturerPartNumber": "SN74LS148NSR",
+                    "MinimumOrderQuantity": 2000,
+                    "NonStock": true,
+                    "Packaging": {
+                        "ParameterId": 7,
+                        "ValueId": "1",
+                        "Parameter": "Packaging",
+                        "Value": "Tape & Reel (TR)"
+                    },
+                    "QuantityAvailable": 0,
+                    "DigiKeyPartNumber": "296-28941-2-ND",
+                    "ProductDescription": "IC PRIORITY ENCODER 1 X 8:3 16SO",
+                    "UnitPrice": 0.91174999999999995,
+                    "Manufacturer": {
+                        "ParameterId": -9,
+                        "ValueId": "296",
+                        "Parameter": "Manufacturer",
+                        "Value": "Texas Instruments"
+                    },
+                    "ManufacturerPublicQuantity": 0,
+                    "QuantityOnOrder": 0,
+                    "DKPlusRestriction": false,
+                    "Marketplace": false,
+                    "SupplierDirectShip": false
+                }
+            ],
+            "DetailedDescription": "Priority Encoder 1 x 8:3 16-SO",
+            "ReachStatus": "Reach unaffected",
+            "ExportControlClassNumber": "EAR99",
+            "HTSUSCode": "8542.39.0001",
+            "TariffDescription": "",
+            "MoistureSensitivityLevel": "1  (Unlimited)",
+            "Family": {
+                "ParameterId": -2,
+                "ValueId": "691",
+                "Parameter": "Family",
+                "Value": "Logic - Signal Switches, Multiplexers, Decoders"
+            },
+            "Category": {
+                "ParameterId": -3,
+                "ValueId": "39",
+                "Parameter": "Category",
+                "Value": "Integrated Circuits (ICs)"
+            },
+            "ManufacturerPartNumber": "SN74LS148NSR",
+            "MinimumOrderQuantity": 1,
+            "NonStock": true,
+            "Packaging": {
+                "ParameterId": 7,
+                "ValueId": "243",
+                "Parameter": "Packaging",
+                "Value": "Digi-Reel\u00ae"
+            },
+            "QuantityAvailable": 0,
+            "DigiKeyPartNumber": "296-28941-6-ND",
+            "ProductDescription": "IC PRIORITY ENCODER 1 X 8:3 16SO",
+            "UnitPrice": 0,
+            "Manufacturer": {
+                "ParameterId": -9,
+                "ValueId": "296",
+                "Parameter": "Manufacturer",
+                "Value": "Texas Instruments"
+            },
+            "ManufacturerPublicQuantity": 0,
+            "QuantityOnOrder": 0,
+            "DKPlusRestriction": false,
+            "Marketplace": false,
+            "SupplierDirectShip": false
+        }
+    ],
+    "ProductsCount": 5,
+    "ExactManufacturerProductsCount": 1,
+    "ExactManufacturerProducts": [
+        {
+            "StandardPricing": [
+                {
+                    "BreakQuantity": 1,
+                    "UnitPrice": 1.6299999999999999,
+                    "TotalPrice": 1.6299999999999999
+                },
+                {
+                    "BreakQuantity": 10,
+                    "UnitPrice": 1.4630000000000001,
+                    "TotalPrice": 14.630000000000001
+                },
+                {
+                    "BreakQuantity": 25,
+                    "UnitPrice": 1.3808,
+                    "TotalPrice": 34.520000000000003
+                },
+                {
+                    "BreakQuantity": 100,
+                    "UnitPrice": 1.1762999999999999,
+                    "TotalPrice": 117.63
+                },
+                {
+                    "BreakQuantity": 250,
+                    "UnitPrice": 1.1045199999999999,
+                    "TotalPrice": 276.13
+                },
+                {
+                    "BreakQuantity": 500,
+                    "UnitPrice": 0.96645999999999999,
+                    "TotalPrice": 483.23000000000002
+                },
+                {
+                    "BreakQuantity": 1000,
+                    "UnitPrice": 0.91174999999999995,
+                    "TotalPrice": 911.75
+                }
+            ],
+            "RoHSStatus": "ROHS3 Compliant",
+            "LeadStatus": "Lead Free",
+            "Parameters": [
+                {
+                    "ParameterId": -1,
+                    "ValueId": "296",
+                    "Parameter": "Manufacturer",
+                    "Value": "Texas Instruments"
+                },
+                {
+                    "ParameterId": 7,
+                    "ValueId": "6",
+                    "Parameter": "Packaging",
+                    "Value": "Tube"
+                },
+                {
+                    "ParameterId": 1989,
+                    "ValueId": "0",
+                    "Parameter": "Part Status",
+                    "Value": "Active"
+                },
+                {
+                    "ParameterId": 183,
+                    "ValueId": "389942",
+                    "Parameter": "Type",
+                    "Value": "Priority Encoder"
+                },
+                {
+                    "ParameterId": 130,
+                    "ValueId": "40394",
+                    "Parameter": "Circuit",
+                    "Value": "1 x 8:3"
+                },
+                {
+                    "ParameterId": 591,
+                    "ValueId": "i1",
+                    "Parameter": "Independent Circuits",
+                    "Value": "1"
+                },
+                {
+                    "ParameterId": 592,
+                    "ValueId": "213002",
+                    "Parameter": "Current - Output High, Low",
+                    "Value": "400\u00b5A, 8mA"
+                },
+                {
+                    "ParameterId": 593,
+                    "ValueId": "403070",
+                    "Parameter": "Voltage Supply Source",
+                    "Value": "Single Supply"
+                },
+                {
+                    "ParameterId": 276,
+                    "ValueId": "209941",
+                    "Parameter": "Voltage - Supply",
+                    "Value": "4.75V ~ 5.25V"
+                },
+                {
+                    "ParameterId": 252,
+                    "ValueId": "38976",
+                    "Parameter": "Operating Temperature",
+                    "Value": "0\u00b0C ~ 70\u00b0C"
+                },
+                {
+                    "ParameterId": 69,
+                    "ValueId": "411897",
+                    "Parameter": "Mounting Type",
+                    "Value": "Through Hole"
+                },
+                {
+                    "ParameterId": 16,
+                    "ValueId": "107879",
+                    "Parameter": "Package \/ Case",
+                    "Value": "16-DIP (0.300\", 7.62mm)"
+                },
+                {
+                    "ParameterId": 1291,
+                    "ValueId": "108442",
+                    "Parameter": "Supplier Device Package",
+                    "Value": "16-PDIP"
+                },
+                {
+                    "ParameterId": 2078,
+                    "ValueId": "13206",
+                    "Parameter": "Base Part Number",
+                    "Value": "74LS148"
+                }
+            ],
+            "ProductUrl": "https:\/\/www.digikey.com\/product-detail\/en\/texas-instruments\/SN74LS148N\/296-3651-5-ND\/377765",
+            "PrimaryDatasheet": "https:\/\/www.ti.com\/general\/docs\/suppproductinfo.tsp?distId=10&gotoUrl=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74ls148",
+            "PrimaryPhoto": "https:\/\/media.digikey.com\/Renders\/Texas%20Instr%20Renders\/296~4040049~N~16.jpg",
+            "PrimaryVideo": "",
+            "Series": {
+                "ParameterId": -5,
+                "ValueId": "77",
+                "Parameter": "Series",
+                "Value": "74LS"
+            },
+            "ManufacturerLeadWeeks": "6 weeks",
+            "ManufacturerPageUrl": "https:\/\/www.digikey.com\/en\/supplier-centers\/texas-instruments",
+            "ProductStatus": "Active",
+            "AlternatePackaging": [],
+            "DetailedDescription": "Priority Encoder 1 x 8:3 16-PDIP",
+            "ReachStatus": "Reach unaffected",
+            "ExportControlClassNumber": "EAR99",
+            "HTSUSCode": "8542.39.0001",
+            "TariffDescription": "",
+            "MoistureSensitivityLevel": "1  (Unlimited)",
+            "Family": {
+                "ParameterId": -2,
+                "ValueId": "691",
+                "Parameter": "Family",
+                "Value": "Logic - Signal Switches, Multiplexers, Decoders"
+            },
+            "Category": {
+                "ParameterId": -3,
+                "ValueId": "39",
+                "Parameter": "Category",
+                "Value": "Integrated Circuits (ICs)"
+            },
+            "ManufacturerPartNumber": "SN74LS148N",
+            "MinimumOrderQuantity": 1,
+            "NonStock": false,
+            "Packaging": {
+                "ParameterId": 7,
+                "ValueId": "6",
+                "Parameter": "Packaging",
+                "Value": "Tube"
+            },
+            "QuantityAvailable": 674,
+            "DigiKeyPartNumber": "296-3651-5-ND",
+            "ProductDescription": "IC PRIORITY ENCOD 1 X 8:3 16DIP",
+            "UnitPrice": 1.6299999999999999,
+            "Manufacturer": {
+                "ParameterId": -9,
+                "ValueId": "296",
+                "Parameter": "Manufacturer",
+                "Value": "Texas Instruments"
+            },
+            "ManufacturerPublicQuantity": 5150,
+            "QuantityOnOrder": 0,
+            "DKPlusRestriction": false,
+            "Marketplace": false,
+            "SupplierDirectShip": false
+        }
+    ],
+    "ExactDigiKeyProduct": null,
+    "SearchLocaleUsed": {
+        "Site": "US",
+        "Language": "en",
+        "Currency": "USD",
+        "ShipToCountry": "US"
+    }
+}
